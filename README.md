@@ -44,6 +44,7 @@
 - Support multi-store.
 - Support multi-language.
 - Easy to install and customize.
+- And many more feature ...
 
 ## More features & Demo
 
