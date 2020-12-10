@@ -49,7 +49,7 @@
 ## More features & Demo
 
 - Extension details : https://www.magetop.com/magento-2-marketplace-theme.html
-- Frontend Demo : https://www.8custom.com
+- Frontend demo : https://www.8custom.com
 - Backend demo : https://www.8custom.com/admin
 
 ## Support & Contact info
